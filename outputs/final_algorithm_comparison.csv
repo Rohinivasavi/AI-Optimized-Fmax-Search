@@ -1,0 +1,5 @@
+Algorithm,Average Tests,Maximum Tests,Fmax MAE (MHz)
+Linear Search,40.4935,74,4.9592
+Binary Search,6.4095,7,4.9592
+ML-Windowed Search,5.3238,11,4.9592
+Noisy ML-Windowed Search,5.3325,11,5.8156
